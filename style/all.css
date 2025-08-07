@@ -590,7 +590,7 @@ d-none {
     margin-bottom: 24px;
   }
   .mb-md-32 {
-    padding-bottom: 32px;
+    margin-bottom: 32px;
   }
 }
 @media (max-width: 576px) {
