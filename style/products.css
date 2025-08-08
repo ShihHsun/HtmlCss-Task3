@@ -12,6 +12,12 @@
   padding-left: 4px;
 }
 
+@media (max-width:576px) {
+  .product-md-col{
+    width: 100%;
+  }
+}
+
 .del-price {
   font-size: 14px;
   font-weight: 400;

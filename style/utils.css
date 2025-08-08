@@ -129,6 +129,10 @@
   .d-md-none {
     display: none;
   }
+
+  .d-md-wrap{
+    flex-wrap: nowrap;
+  }
 }
 
 @media (max-width: 576px) {
